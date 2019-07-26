@@ -1,0 +1,7 @@
+.particles-box{
+    height: 100%;
+    width: 100%;
+    background-color:#231f61;
+    background-image: url(https://cdn.pixabay.com/photo/2016/07/02/17/13/wallpaper-1493363_960_720.jpg);
+    background-size: cover;
+}
